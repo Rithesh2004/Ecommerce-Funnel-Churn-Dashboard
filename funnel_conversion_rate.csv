@@ -1,0 +1,5 @@
+funnel_stage,unique_users,previous_stage_users,pct_conversion_from_previous,pct_drop_off_from_previous,landing_users,pct_overall_conversion
+1_Landing,2800,,,,2800,100.0
+2_Product_View,1786,2800.0,63.79,36.21,2800,63.79
+3_Add_to_Cart,707,1786.0,39.59,60.41,2800,25.25
+4_Purchase,222,707.0,31.4,68.6,2800,7.93

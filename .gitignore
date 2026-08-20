@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database fallback
+*.db
+*.sqlite
+
+# Virtual environment folder
+venv/
+.venv/
+env/
+
+# Environment configurations and logs
+.env
+*.log
+
+# OS temporary files
+.DS_Store
+Thumbs.db
